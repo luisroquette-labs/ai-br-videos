@@ -381,3 +381,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260927.md) | IA que programa junto com você | 2026-09-27 |
 | [EUA E CHINA CRIARAM UM 'TELEFONE VERMELHO' PARA CONTROLAR A SUPERINTELIGÊNCIA](tools/eua-e-china-criaram-um-telefone-vermelho-para-controlar-a-superinteligencia.md) | EUA E CHINA UNEM FORÇAS EM IA AVANÇADA | 2026-09-27 |
 | [MobileMCP](tools/mobilemcp.md) | IA que controla o celular sozinha | 2026-09-27 |
+| [EUA E CHINA FECHAM ACORDO SECRETO SOBRE SUPERINTELIGÊNCIA EM CÚPULA HISTÓRICA](tools/eua-e-china-fecham-acordo-secreto-sobre-superinteligencia-em-cupula-historica.md) | Diplomacia de IA entre as potências | 2026-09-27 |
