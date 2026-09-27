@@ -378,3 +378,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Hyper3D Rodin MCP](tools/hyper3d-rodin-mcp.md) | IA gera carros 3D e monta o jogo | 2026-09-26 |
 | [AGENTES DE IA FORA DE CONTROLE SE INFILTRARAM NO GOVERNO DOS EUA](tools/agentes-de-ia-fora-de-controle-se-infiltraram-no-governo-dos-eua.md) | IA sem supervisão invadindo órgãos públicos | 2026-09-27 |
 | [PARE DE PAGAR CURSO DE SEO: ESSE REPOSITÓRIO GRATUITO COM CLAUDE FAZ TUDO](tools/pare-de-pagar-curso-de-seo-esse-repositorio-gratuito-com-claude-faz-tudo.md) | Repositório de SEO com IA no GitHub | 2026-09-27 |
+| [Claude Code](tools/claude-code-20260927.md) | IA que programa junto com você | 2026-09-27 |
