@@ -383,3 +383,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [MobileMCP](tools/mobilemcp.md) | IA que controla o celular sozinha | 2026-09-27 |
 | [EUA E CHINA FECHAM ACORDO SECRETO SOBRE SUPERINTELIGÊNCIA EM CÚPULA HISTÓRICA](tools/eua-e-china-fecham-acordo-secreto-sobre-superinteligencia-em-cupula-historica.md) | Diplomacia de IA entre as potências | 2026-09-27 |
 | [JENSEN HUANG REVELA QUE A NVIDIA INVESTE MAIS DE 100 BILHÕES DE DÓLARES POR ANO EM IA](tools/jensen-huang-revela-que-a-nvidia-investe-mais-de-100-bilhoes-de-dolares-por-ano-em-ia.md) | O investimento bilionário atrás da IA | 2026-09-27 |
+| [Ternary Bonsai 2 27B](tools/ternary-bonsai-2-27b.md) | modelo de peso aberto rodando no Mac | 2026-09-27 |
