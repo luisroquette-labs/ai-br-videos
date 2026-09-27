@@ -380,3 +380,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [PARE DE PAGAR CURSO DE SEO: ESSE REPOSITÓRIO GRATUITO COM CLAUDE FAZ TUDO](tools/pare-de-pagar-curso-de-seo-esse-repositorio-gratuito-com-claude-faz-tudo.md) | Repositório de SEO com IA no GitHub | 2026-09-27 |
 | [Claude Code](tools/claude-code-20260927.md) | IA que programa junto com você | 2026-09-27 |
 | [EUA E CHINA CRIARAM UM 'TELEFONE VERMELHO' PARA CONTROLAR A SUPERINTELIGÊNCIA](tools/eua-e-china-criaram-um-telefone-vermelho-para-controlar-a-superinteligencia.md) | EUA E CHINA UNEM FORÇAS EM IA AVANÇADA | 2026-09-27 |
+| [MobileMCP](tools/mobilemcp.md) | IA que controla o celular sozinha | 2026-09-27 |
