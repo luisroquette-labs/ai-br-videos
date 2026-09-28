@@ -392,3 +392,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Anthropic](tools/anthropic.md) | IA no centro da diplomacia global | 2026-09-28 |
 | [DARIO AMODEI ADMITE: SE A RECEITA NÃO BATER 1 TRILHÃO EM 2027, A ANTHROPIC VAI À FALÊNCIA](tools/dario-amodei-admite-se-a-receita-nao-bater-1-trilhao-em-2027-a-anthropic-vai-a-falencia.md) | A aposta bilionária em computação da IA | 2026-09-28 |
 | [CEO DA ANTHROPIC ADMITE: SE A RECEITA NÃO BATER 1 TRILHÃO EM 2027, A EMPRESA QUEBRA](tools/ceo-da-anthropic-admite-se-a-receita-nao-bater-1-trilhao-em-2027-a-empresa-quebra.md) | Aposta de 1 trilhão em computação | 2026-09-28 |
+| [OPENAI NÃO QUER FAZER UM CHATBOT MELHOR. QUER SUBSTITUIR TODO TRABALHO HUMANO](tools/openai-nao-quer-fazer-um-chatbot-melhor-quer-substituir-todo-trabalho-humano.md) | O objetivo real por trás da corrida da AGI | 2026-09-28 |
