@@ -394,3 +394,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [CEO DA ANTHROPIC ADMITE: SE A RECEITA NÃO BATER 1 TRILHÃO EM 2027, A EMPRESA QUEBRA](tools/ceo-da-anthropic-admite-se-a-receita-nao-bater-1-trilhao-em-2027-a-empresa-quebra.md) | Aposta de 1 trilhão em computação | 2026-09-28 |
 | [OPENAI NÃO QUER FAZER UM CHATBOT MELHOR. QUER SUBSTITUIR TODO TRABALHO HUMANO](tools/openai-nao-quer-fazer-um-chatbot-melhor-quer-substituir-todo-trabalho-humano.md) | O objetivo real por trás da corrida da AGI | 2026-09-28 |
 | [JENSEN HUANG DESMONTA O TEATRO DE MEDO DA IA EM DUAS RESPOSTAS](tools/jensen-huang-desmonta-o-teatro-de-medo-da-ia-em-duas-respostas.md) | O CEO da NVIDIA responde ao pânico com IA | 2026-09-28 |
+| [GEMINI FUGE CORRENDO E A INTERNET TAILANDESA NAO AGUENTA](tools/gemini-fuge-correndo-e-a-internet-tailandesa-nao-aguenta.md) | O casal tailandes que domina as redes | 2026-09-28 |
