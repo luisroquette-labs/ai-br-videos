@@ -391,3 +391,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [PEDIMOS PARA UMA IA IMAGINAR OS EUA APOS 50 ANOS DE GOVERNO REPUBLICANO](tools/pedimos-para-uma-ia-imaginar-os-eua-apos-50-anos-de-governo-republicano.md) | Simulação de futuro político por IA | 2026-09-28 |
 | [Anthropic](tools/anthropic.md) | IA no centro da diplomacia global | 2026-09-28 |
 | [DARIO AMODEI ADMITE: SE A RECEITA NÃO BATER 1 TRILHÃO EM 2027, A ANTHROPIC VAI À FALÊNCIA](tools/dario-amodei-admite-se-a-receita-nao-bater-1-trilhao-em-2027-a-anthropic-vai-a-falencia.md) | A aposta bilionária em computação da IA | 2026-09-28 |
+| [CEO DA ANTHROPIC ADMITE: SE A RECEITA NÃO BATER 1 TRILHÃO EM 2027, A EMPRESA QUEBRA](tools/ceo-da-anthropic-admite-se-a-receita-nao-bater-1-trilhao-em-2027-a-empresa-quebra.md) | Aposta de 1 trilhão em computação | 2026-09-28 |
