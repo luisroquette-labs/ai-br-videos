@@ -387,3 +387,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [TRUMP DIZ QUE NÃO SE PREOCUPA COM IA FORA DE CONTROLE: "SE ALGO DER ERRADO, CONSERTAM"](tools/trump-diz-que-nao-se-preocupa-com-ia-fora-de-controle-se-algo-der-errado-consertam.md) | O posicionamento do governo dos EUA sobre IA | 2026-09-28 |
 | [mobile-mcp](tools/mobile-mcp.md) | IA controla celular e testa apps | 2026-09-28 |
 | [JACK DORSEY OPEN-SOURCED A FRAMEWORK WHERE AI AGENTS WORK AS EMPLOYEES](tools/jack-dorsey-open-sourced-a-framework-where-ai-agents-work-as-employees.md) | AGENTES DE IA COM PERMISSOES DE EQUIPE | 2026-09-28 |
+| [Pollo AI MCP](tools/pollo-ai-mcp.md) | Agente de IA que monta seu video inteiro | 2026-09-28 |
