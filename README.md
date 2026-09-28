@@ -388,3 +388,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [mobile-mcp](tools/mobile-mcp.md) | IA controla celular e testa apps | 2026-09-28 |
 | [JACK DORSEY OPEN-SOURCED A FRAMEWORK WHERE AI AGENTS WORK AS EMPLOYEES](tools/jack-dorsey-open-sourced-a-framework-where-ai-agents-work-as-employees.md) | AGENTES DE IA COM PERMISSOES DE EQUIPE | 2026-09-28 |
 | [Pollo AI MCP](tools/pollo-ai-mcp.md) | Agente de IA que monta seu video inteiro | 2026-09-28 |
+| [PEDIMOS PARA UMA IA IMAGINAR OS EUA APOS 50 ANOS DE GOVERNO REPUBLICANO](tools/pedimos-para-uma-ia-imaginar-os-eua-apos-50-anos-de-governo-republicano.md) | Simulação de futuro político por IA | 2026-09-28 |
