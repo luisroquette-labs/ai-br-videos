@@ -406,3 +406,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Mercury Voice](tools/mercury-voice.md) | IA generativa de voz em tempo real | 2026-09-29 |
 | [Claude Code](tools/claude-code-20260929.md) | BASE DE CONHECIMENTO PESSOAL COM IA | 2026-09-29 |
 | [UsageBench on BridgeBench](tools/usagebench-on-bridgebench.md) | O placar que mede se a IA te dá menos | 2026-09-29 |
+| [TRUMP REUNE ELON MUSK, ZUCKERBERG E BEZOS EM REUNIÃO DE 2 HORAS SOBRE IA NA CASA BRANCA](tools/trump-reune-elon-musk-zuckerberg-e-bezos-em-reuniao-de-2-horas-sobre-ia-na-casa-branca.md) | OS DONOS DAS MAIORES TECHS DO MUNDO | 2026-09-29 |
