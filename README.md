@@ -400,3 +400,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Team Bots](tools/team-bots.md) | Robo de time que aprende junto com voce | 2026-09-29 |
 | [Claude Sonnet 5.5](tools/claude-sonnet-5-5.md) | O rival do ChatGPT ficou mais barato | 2026-09-29 |
 | [Claude Code](tools/claude-code-20260929.md) | Roteador open-source de IAs grátis | 2026-09-29 |
+| [O IMPOSTO ESCONDIDO DAS IAs DE CODIGO: PAGUE 2X MAIS POUCO E NADA](tools/o-imposto-escondido-das-ias-de-codigo-pague-2x-mais-pouco-e-nada.md) | O sistema que envolve o ChatGPT de codigo pesa no bolsillo. | 2026-09-29 |
