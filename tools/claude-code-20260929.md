@@ -1,15 +1,17 @@
 # Claude Code
 
-Claude Code é o agente de programação da Anthropic que roda no terminal. Ele lê o projeto, executa comandos, edita arquivos e resolve tarefas de código com autonomia. O vídeo mostra um caso real de uso intenso: um dev estourou três contas do plano de US$ 200 desde o lançamento do Opus 5.5.
+O Claude Code vira um "segundo cérebro" quando você aponta ele para um diretório local. Jogue artigos, PDFs, transcrições de reunião ou qualquer texto de referência. O sistema analisa o conteúdo, mapeia conexões entre os documentos e constrói um repositório vivo de conhecimento. A cada novo arquivo, a base inteira fica mais útil — o ganho é cumulativo, não linear.
 
 ## Por que importa
 
-Os números são do @cyrilXBT, calculados com preço de API. Cada conta queimou por volta de US$ 2.200 por semana em Opus 5.5 — US$ 2.086, US$ 2.442 e US$ 2.182 nas três contas. Projetando o mês, são cerca de US$ 9.500 de valor de API por conta, pagando US$ 200.
+A ideia, que viralizou a partir de uma sugestão do Karpathy, é simples: parar de usar IA só para gerar código. Use para consolidar o que você já sabe. Isso permite automatizar tarefas repetitivas e responder perguntas com base no seu próprio contexto, sem duplicar esforço. O setup é barato: uma pasta, um modelo de linguagem e um editor de notas.
 
-A conclusão prática: assinatura de Claude Code está muito abaixo do custo real do modelo para quem usa pesado. Esse tipo de gap de preço não dura para sempre. Se você depende de agente de IA no dia a dia, vale medir seu próprio consumo antes que a Anthropic reajuste a tabela.
+## Como começar
+
+Crie um diretório dedicado para a base. Jogue os materiais de referência (PDFs, notas, transcrições) dentro. Abra o Obsidian para visualizar a estrutura, se precisar. Depois, use o Claude Code para analisar o conteúdo e conectar ideias. Alimente a base regularmente — o valor está na consistência, não no volume inicial.
 
 ---
 
-**Fonte original:** https://x.com/cyrilXBT/status/2104839880962642423
+**Fonte original:** https://x.com/Bober_smart/status/2104998107750535196
 
 **Veja o vídeo:** [@ai_br_videos no Instagram](https://instagram.com/ai_br_videos)
