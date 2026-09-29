@@ -397,3 +397,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GEMINI FUGE CORRENDO E A INTERNET TAILANDESA NAO AGUENTA](tools/gemini-fuge-correndo-e-a-internet-tailandesa-nao-aguenta.md) | O casal tailandes que domina as redes | 2026-09-28 |
 | [JENSEN HUANG DESMONTOU O TEATRO DE MEDO SOBRE IA AO VIVO E DEIXOU TODO MUDO](tools/jensen-huang-desmontou-o-teatro-de-medo-sobre-ia-ao-vivo-e-deixou-todo-mudo.md) | O CEO DA NVIDIA SOBRE MEDO E REGULAÇÃO DA IA | 2026-09-28 |
 | [Higgsfield MCP](tools/higgsfield-mcp.md) | A IA QUE MONTA ANÚNCIOS EM MINUTOS | 2026-09-28 |
+| [Team Bots](tools/team-bots.md) | Robo de time que aprende junto com voce | 2026-09-29 |
