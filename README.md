@@ -398,3 +398,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [JENSEN HUANG DESMONTOU O TEATRO DE MEDO SOBRE IA AO VIVO E DEIXOU TODO MUDO](tools/jensen-huang-desmontou-o-teatro-de-medo-sobre-ia-ao-vivo-e-deixou-todo-mudo.md) | O CEO DA NVIDIA SOBRE MEDO E REGULAÇÃO DA IA | 2026-09-28 |
 | [Higgsfield MCP](tools/higgsfield-mcp.md) | A IA QUE MONTA ANÚNCIOS EM MINUTOS | 2026-09-28 |
 | [Team Bots](tools/team-bots.md) | Robo de time que aprende junto com voce | 2026-09-29 |
+| [Claude Sonnet 5.5](tools/claude-sonnet-5-5.md) | O rival do ChatGPT ficou mais barato | 2026-09-29 |
