@@ -404,3 +404,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Claude Code](tools/claude-code-20260929.md) | O agente de IA que programa por você | 2026-09-29 |
 | [OS 5 NIVEIS DA IA: DO CHATBOT QUE RESPONDE AO AGENTE QUE TRABALHA SOZINHO](tools/os-5-niveis-da-ia-do-chatbot-que-responde-ao-agente-que-trabalha-sozinho.md) | O MAPA COMPLETO DOS SISTEMAS AUTÔNOMOS | 2026-09-29 |
 | [Mercury Voice](tools/mercury-voice.md) | IA generativa de voz em tempo real | 2026-09-29 |
+| [Claude Code](tools/claude-code-20260929.md) | BASE DE CONHECIMENTO PESSOAL COM IA | 2026-09-29 |
