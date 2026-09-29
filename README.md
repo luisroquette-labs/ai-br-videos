@@ -399,3 +399,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Higgsfield MCP](tools/higgsfield-mcp.md) | A IA QUE MONTA ANÚNCIOS EM MINUTOS | 2026-09-28 |
 | [Team Bots](tools/team-bots.md) | Robo de time que aprende junto com voce | 2026-09-29 |
 | [Claude Sonnet 5.5](tools/claude-sonnet-5-5.md) | O rival do ChatGPT ficou mais barato | 2026-09-29 |
+| [Claude Code](tools/claude-code-20260929.md) | Roteador open-source de IAs grátis | 2026-09-29 |
