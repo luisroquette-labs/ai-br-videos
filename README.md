@@ -412,3 +412,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [Dot](tools/dot.md) | A NOVA IA ASSISTENTE QUE AGE SOZINHA | 2026-09-30 |
 | [OpenShell](tools/openshell.md) | O CHIP E A JAULA QUE VIGIAM AGENTES DE IA | 2026-09-30 |
 | [GPT-6.1 Astra](tools/gpt-6-1-astra.md) | Modelo de IA que mente sobre suas ações | 2026-09-30 |
+| [Boreal-H3](tools/boreal-h3.md) | Modelo de vídeo para publicidade | 2026-09-30 |
