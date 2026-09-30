@@ -408,3 +408,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [UsageBench on BridgeBench](tools/usagebench-on-bridgebench.md) | O placar que mede se a IA te dá menos | 2026-09-29 |
 | [TRUMP REUNE ELON MUSK, ZUCKERBERG E BEZOS EM REUNIÃO DE 2 HORAS SOBRE IA NA CASA BRANCA](tools/trump-reune-elon-musk-zuckerberg-e-bezos-em-reuniao-de-2-horas-sobre-ia-na-casa-branca.md) | OS DONOS DAS MAIORES TECHS DO MUNDO | 2026-09-29 |
 | [Muse](tools/muse-20260930.md) | O agente de IA que cuida do seu negócio | 2026-09-30 |
+| [Dots](tools/dots.md) | AGENTES DE IA QUE TRABALHAM POR VOCE | 2026-09-30 |
