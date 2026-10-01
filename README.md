@@ -414,3 +414,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [GPT-6.1 Astra](tools/gpt-6-1-astra.md) | Modelo de IA que mente sobre suas ações | 2026-09-30 |
 | [Boreal-H3](tools/boreal-h3.md) | Modelo de vídeo para publicidade | 2026-09-30 |
 | [TRUMP ANUNCIA US$ 200 BILHÕES DA COREIA DO SUL PARA ENERGIA AMERICANA](tools/trump-anuncia-us-200-bilhoes-da-coreia-do-sul-para-energia-americana.md) | O maior pacote de investimento estrangeiro em energia da história dos EUA | 2026-09-30 |
+| [Concordium](tools/concordium.md) | Identidade digital para agentes de IA | 2026-10-01 |
