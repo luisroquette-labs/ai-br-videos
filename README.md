@@ -421,3 +421,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [NETANYAHU REVELA QUE PILOTO ESFAQUEOU COLEGA E TENTOU DERRUBAR AVIÃO](tools/netanyahu-revela-que-piloto-esfaqueou-colega-e-tentou-derrubar-aviao.md) | DECLARAÇÃO OFICIAL SOBRE O ATAQUE EM VOO | 2026-10-01 |
 | [Blockworks MCP](tools/blockworks-mcp.md) | Base de dados aberta para agentes de IA | 2026-10-01 |
 | [People Enrichment Pack](tools/people-enrichment-pack.md) | Contatos e dados de empresas pra IA | 2026-10-01 |
+| [TRUMP ANUNCIA INVESTIGACAO RICO CONTRA GEORGE SOROS POR FINANCIAR TERROR](tools/trump-anuncia-investigacao-rico-contra-george-soros-por-financiar-terror.md) | A lei americana usada contra a máfia | 2026-10-01 |
