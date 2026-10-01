@@ -416,3 +416,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [TRUMP ANUNCIA US$ 200 BILHÕES DA COREIA DO SUL PARA ENERGIA AMERICANA](tools/trump-anuncia-us-200-bilhoes-da-coreia-do-sul-para-energia-americana.md) | O maior pacote de investimento estrangeiro em energia da história dos EUA | 2026-09-30 |
 | [Concordium](tools/concordium.md) | Identidade digital para agentes de IA | 2026-10-01 |
 | [Claude Code](tools/claude-code-20261001.md) | O AGENTE DE PROGRAMAÇÃO DA ANTHROPIC | 2026-10-01 |
+| [DESENVOLVEDOR USA IA PARA SE CANDIDATAR A 700 VAGAS E CONSEGUIU EMPREGO](tools/desenvolvedor-usa-ia-para-se-candidatar-a-700-vagas-e-conseguiu-emprego.md) | Sistema aberto que caça vagas por você | 2026-10-01 |
