@@ -420,3 +420,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [IA CRIOU UM MOD DE ELDEN RING TÃO REAL QUE TODO MUNDO ACHOU QUE ERA FAKE](tools/ia-criou-um-mod-de-elden-ring-tao-real-que-todo-mundo-achou-que-era-fake.md) | Agentes de IA programando dentro do jogo | 2026-10-01 |
 | [NETANYAHU REVELA QUE PILOTO ESFAQUEOU COLEGA E TENTOU DERRUBAR AVIÃO](tools/netanyahu-revela-que-piloto-esfaqueou-colega-e-tentou-derrubar-aviao.md) | DECLARAÇÃO OFICIAL SOBRE O ATAQUE EM VOO | 2026-10-01 |
 | [Blockworks MCP](tools/blockworks-mcp.md) | Base de dados aberta para agentes de IA | 2026-10-01 |
+| [People Enrichment Pack](tools/people-enrichment-pack.md) | Contatos e dados de empresas pra IA | 2026-10-01 |
