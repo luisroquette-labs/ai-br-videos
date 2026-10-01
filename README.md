@@ -419,3 +419,4 @@ Quer o acesso de alguma? Comenta **"EU QUERO"** no post correspondente do Instag
 | [DESENVOLVEDOR USA IA PARA SE CANDIDATAR A 700 VAGAS E CONSEGUIU EMPREGO](tools/desenvolvedor-usa-ia-para-se-candidatar-a-700-vagas-e-conseguiu-emprego.md) | Sistema aberto que caça vagas por você | 2026-10-01 |
 | [IA CRIOU UM MOD DE ELDEN RING TÃO REAL QUE TODO MUNDO ACHOU QUE ERA FAKE](tools/ia-criou-um-mod-de-elden-ring-tao-real-que-todo-mundo-achou-que-era-fake.md) | Agentes de IA programando dentro do jogo | 2026-10-01 |
 | [NETANYAHU REVELA QUE PILOTO ESFAQUEOU COLEGA E TENTOU DERRUBAR AVIÃO](tools/netanyahu-revela-que-piloto-esfaqueou-colega-e-tentou-derrubar-aviao.md) | DECLARAÇÃO OFICIAL SOBRE O ATAQUE EM VOO | 2026-10-01 |
+| [Blockworks MCP](tools/blockworks-mcp.md) | Base de dados aberta para agentes de IA | 2026-10-01 |
